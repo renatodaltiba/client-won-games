@@ -24,7 +24,7 @@ Default.argTypes = {
 
 Default.parameters = {
   backgrounds: {
-    default: 'dark'
+    default: 'won-dark'
   }
 }
 
@@ -46,6 +46,6 @@ WithRibbon.args = {
 
 WithRibbon.parameters = {
   backgrounds: {
-    default: 'dark'
+    default: 'won-dark'
   }
 }
